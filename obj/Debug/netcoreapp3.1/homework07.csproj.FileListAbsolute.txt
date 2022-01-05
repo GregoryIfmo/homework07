@@ -1,0 +1,14 @@
+/Users/gregory/MyData/myStudySkillBoxUnity/module7/homework07/bin/Debug/netcoreapp3.1/homework07.deps.json
+/Users/gregory/MyData/myStudySkillBoxUnity/module7/homework07/bin/Debug/netcoreapp3.1/homework07.runtimeconfig.json
+/Users/gregory/MyData/myStudySkillBoxUnity/module7/homework07/bin/Debug/netcoreapp3.1/homework07.runtimeconfig.dev.json
+/Users/gregory/MyData/myStudySkillBoxUnity/module7/homework07/bin/Debug/netcoreapp3.1/homework07.dll
+/Users/gregory/MyData/myStudySkillBoxUnity/module7/homework07/bin/Debug/netcoreapp3.1/homework07.pdb
+/Users/gregory/MyData/myStudySkillBoxUnity/module7/homework07/obj/Debug/netcoreapp3.1/homework07.csproj.AssemblyReference.cache
+/Users/gregory/MyData/myStudySkillBoxUnity/module7/homework07/obj/Debug/netcoreapp3.1/homework07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gregory/MyData/myStudySkillBoxUnity/module7/homework07/obj/Debug/netcoreapp3.1/homework07.AssemblyInfoInputs.cache
+/Users/gregory/MyData/myStudySkillBoxUnity/module7/homework07/obj/Debug/netcoreapp3.1/homework07.AssemblyInfo.cs
+/Users/gregory/MyData/myStudySkillBoxUnity/module7/homework07/obj/Debug/netcoreapp3.1/homework07.csproj.CoreCompileInputs.cache
+/Users/gregory/MyData/myStudySkillBoxUnity/module7/homework07/obj/Debug/netcoreapp3.1/homework07.dll
+/Users/gregory/MyData/myStudySkillBoxUnity/module7/homework07/obj/Debug/netcoreapp3.1/homework07.pdb
+/Users/gregory/MyData/myStudySkillBoxUnity/module7/homework07/obj/Debug/netcoreapp3.1/homework07.genruntimeconfig.cache
+/Users/gregory/MyData/myStudySkillBoxUnity/module7/homework07/bin/Debug/netcoreapp3.1/homework07

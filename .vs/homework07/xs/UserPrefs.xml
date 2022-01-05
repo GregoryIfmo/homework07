@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{6DE3E6BA-7100-4062-A910-9CCEC1486647}|Default">
+  <MonoDevelop.Ide.ItemProperties.homework07 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="tools/Command_handler.cs">
+    <Files>
+      <File FileName="Program.cs" Line="20" Column="23" />
+      <File FileName="collection/Notes.cs" Line="95" Column="48" />
+      <File FileName="tools/File_worker.cs" Line="32" Column="1" />
+      <File FileName="collection/Type.cs" />
+      <File FileName="tools/Commadns.cs" Line="497" Column="34" />
+      <File FileName="tools/Command_handler.cs" Line="61" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="homework07" expanded="True">
+            <Node name="homework07" expanded="True">
+              <Node name="collection" expanded="True" />
+              <Node name="tools" expanded="True">
+                <Node name="Command_handler.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
